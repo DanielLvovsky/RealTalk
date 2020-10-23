@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 178 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="Artboard1" transform="matrix(1,0,0,1,455.185,-2.84217e-14)">
+        <rect x="-455.185" y="0" width="177.778" height="177.778" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="-455.185" y="0" width="177.778" height="177.778"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(0.482285,0,0,0.47145,-975.668,-24.1729)">
+                <path d="M1340.19,392.484C1315.88,404.717 1288.43,411.61 1259.37,411.61C1159.93,411.61 1079.2,330.879 1079.2,231.442C1079.2,132.004 1159.93,51.273 1259.37,51.273C1358.81,51.273 1439.54,132.004 1439.54,231.442C1439.54,265.678 1429.97,297.697 1413.36,324.973L1447.82,428.361L1340.19,392.484Z" style="fill:url(#_Linear2);"/>
+            </g>
+            <g transform="matrix(0.884921,0,0,0.884921,-444.956,10.2293)">
+                <path d="M79.388,88.889L125.6,133.495L51.717,133.495L51.717,44.283L103.371,44.283C115.894,44.283 126.061,54.276 126.061,66.586C126.061,78.847 115.973,88.811 103.517,88.888L103.371,88.889L79.388,88.889Z" style="fill:white;"/>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear2" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-312.642,-327.394,320.039,-319.827,1447.82,428.361)"><stop offset="0" style="stop-color:rgb(106,1,255);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,0,59);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
