@@ -1,6 +1,6 @@
 # RealTalk
 
-> A simple social media web app built with Vue.js and Firebase's Cloud Firestore.
+> A simple social media web app built with Vue.js and Firebase's Cloud Firestore with authentication and real time events.
 
 ``` bash
 # install dependencies
